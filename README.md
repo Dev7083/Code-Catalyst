@@ -1,1 +1,1 @@
-## BuddyCode
+## CodeCatalyst
